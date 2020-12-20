@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c0b3613e-aaf3-429a-952a-a80f9ed48050" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/client/src/components/CredentialsProvider.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/OTONavBar.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/ProtectedRoute.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/SnackBar.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/data/Customer.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/request.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/views/CommercialCustomers.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/views/Config.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/views/NoPermission.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/views/PasswordReset.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/views/ResidentialCustomers.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/client/yarn.lock" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/client" />
+  </component>
+  <component name="ProjectId" id="1knLCgXZg4hXAVIH61GYmIgEwoc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/server" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="C:\Users\micdu\Code\uni\securite des reseaux et web\tp3\client\node_modules\typescript\lib" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\micdu\Code\uni\securite des reseaux et web\tp3\server" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\micdu\Code\uni\securite des reseaux et web\tp3\server\src\data" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c0b3613e-aaf3-429a-952a-a80f9ed48050" name="Default Changelist" comment="" />
+      <created>1606331282200</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606331282200</updated>
+      <workItem from="1606331283227" duration="3982000" />
+      <workItem from="1606485299136" duration="13603000" />
+      <workItem from="1606582121938" duration="11381000" />
+      <workItem from="1606681083705" duration="158000" />
+      <workItem from="1606764036090" duration="6022000" />
+      <workItem from="1606920479925" duration="12669000" />
+      <workItem from="1607115042391" duration="13147000" />
+      <workItem from="1607187467988" duration="6889000" />
+      <workItem from="1607282422055" duration="261000" />
+      <workItem from="1607284345187" duration="1047000" />
+      <workItem from="1608396625204" duration="6742000" />
+      <workItem from="1608491338621" duration="2645000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="765" y="236" key="#com.intellij.ide.util.MemberChooser" timestamp="1606586506666">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="236" key="#com.intellij.ide.util.MemberChooser/1920.0.1536.832/0.0.1920.1040/-1080.-483.1080.1880@0.0.1920.1040" timestamp="1606586506666" />
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1606583310714">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1920.0.1536.832/0.0.1920.1040/-1080.-483.1080.1880@0.0.1920.1040" timestamp="1606583310714" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1607120203676">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/-1080.-483.1080.1880/1920.0.1536.824@0.0.1920.1040" timestamp="1607120203676" />
+  </component>
+</project>
